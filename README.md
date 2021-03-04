@@ -5,7 +5,7 @@ A data for good project accepted for participation in HackinSAS 2021. Below are 
 - __Raspberry Pi Project:__ Bi-directional set-up hosted on Azure
 - __Artificial Intelligence:__ Application of LSTM (with 2sec Audio Chunks) & CNN (with Spectrograms) for binary classification of emergency vs. non-emergency vehicles
 - __Validation Dataset:__ 4:00 minutes of audio data including both emeregncy and non-emergency vehicles, as shown below: <br> 
-     Audio: https://github.com/amirhossini/Trafic-Light-for-Life/blob/main/data/validation.wav
+     Audio: https://github.com/amirhossini/Trafic-Light-for-Life/blob/main/data/validation.wav <br>
      Time-series: <br> ![image](https://user-images.githubusercontent.com/63076229/109926219-f222f480-7c7f-11eb-8c2b-96154b5de0d8.png) <br>
      Spectrogram: <br> ![image](https://user-images.githubusercontent.com/63076229/109926398-27c7dd80-7c80-11eb-8136-3805ca27450c.png)
 
