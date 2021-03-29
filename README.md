@@ -10,7 +10,7 @@ A data for good project accepted for participation in Global HackinSAS 2021. Bel
      Spectrogram: <br> ![image](https://user-images.githubusercontent.com/63076229/112779376-dbb05480-9003-11eb-91ea-61ae9486e4f7.png) <br>
 
 - __Models:__
-     - CNN with time-series data
+     - CNN with time-series data: <br> ![image](https://user-images.githubusercontent.com/63076229/112785556-79f6e700-9011-11eb-9681-b97a5b4f152d.png) <br>
      - LSTM with time-series data
      - CNN with spectrogram data 
 
