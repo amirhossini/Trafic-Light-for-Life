@@ -26,6 +26,7 @@ A data for good project accepted for participation in Global HackinSAS 2021. Bel
      - Please use ./notebooks/data_prep.ipynb for .WAV data sampling, and training/testing/validation set creation
      - Please use ./notebooks/ML_Models.ipynb for ML model architecture design and hyperparameter tuning
      - Best model artefacts are stored under: ./model_artefacts
+     - all custom functions are stored under udfs_prep and udfs_ml under ./src
 
 
 
