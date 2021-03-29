@@ -13,11 +13,19 @@ A data for good project accepted for participation in Global HackinSAS 2021. Bel
      - CNN with time-series data: <br> ![image](https://user-images.githubusercontent.com/63076229/112785556-79f6e700-9011-11eb-9681-b97a5b4f152d.png) <br>
      - LSTM with time-series data: <br> ![image](https://user-images.githubusercontent.com/63076229/112785639-b0346680-9011-11eb-9fd2-2d185725e94b.png) <br> 
      - CNN with spectrogram data: <br> ![image](https://user-images.githubusercontent.com/63076229/112785689-d4904300-9011-11eb-8afd-9cd1230f938c.png) <br>
+     
 - __Tunning Performance:__
      - Training Speed: <br> ![image](https://user-images.githubusercontent.com/63076229/112786029-96dfea00-9012-11eb-8042-d2ce5698722b.png) <br>
      - Prediction Speed: <br> ![image](https://user-images.githubusercontent.com/63076229/112786077-b0813180-9012-11eb-8d38-2b893f1efcda.png) <br>
      - Prediction Accuracy on the testing set: <br> ![image](https://user-images.githubusercontent.com/63076229/112786139-d1498700-9012-11eb-96b1-a8ba369619f9.png) <br>
 
+- __Performance on the Validation Set:__ 
+     - CNN with time series data outperformaing other techniques <br> ![image](https://user-images.githubusercontent.com/63076229/112786410-72384200-9013-11eb-9ede-c6edc23124c2.png) <br>
+
+- __Model Execution:__ 
+     - Please use ./notebooks/data_prep.ipynb for .WAV data sampling, and training/testing/validation set creation
+     - Please use ./notebooks/ML_Models.ipynb for ML model architecture design and hyperparameter tuning
+     - Best model artefacts are stored under: ./model_artefacts
 
 
 
